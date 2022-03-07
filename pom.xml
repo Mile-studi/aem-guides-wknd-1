@@ -309,6 +309,7 @@ Bundle-DocURL:
                     <extensions>true</extensions>
                     <version>1.1.4</version>
                     <configuration>
+                        <allowIndexDefinitions>true</allowIndexDefinitions>
                         <filterSource>src/main/content/META-INF/vault/filter.xml</filterSource>
                         <properties>
                             <cloudManagerTarget>none</cloudManagerTarget>

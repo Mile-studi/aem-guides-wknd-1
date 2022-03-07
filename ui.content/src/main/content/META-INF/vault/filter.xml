@@ -6,4 +6,5 @@
     <filter root="/content/experience-fragments/wknd" mode="merge"/>
     <filter root="/content/cq:tags/wknd" mode="merge"/>
     <filter root="/content/cq:graphql" mode="merge" />
+    <filter root="/oak:index/ntBaseLucene_v3" mode="merge" />
 </workspaceFilter>
